@@ -1,0 +1,24 @@
+rollIn
+
+lightSpeedIn
+bounceInDown
+bounceInUp
+
+bounceInLeft
+bounceInRight   (kk)
+
+
+bounceIn
+Left
+
+1配置https相关问题
+2断网后删除屏幕有问题（删除后会重连）
+3页面表情上传出错
+
+
+
+
+
+
+配置https，并和IOS与安卓对接，但是发现有问题，应该是生成的数字证书有问题，所以还是暂时不做这一模块，等真正的数字证书下来了再配置
+查看支付相关接口
